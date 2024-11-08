@@ -17,7 +17,7 @@ This is a simple Python program that generates random passwords. The generated p
 1. **Clone the Repository:**
 
     ```sh
-    git clone git@github.com:YourUsername/Password-Generator.git
+    git clone git@github.com:MazibukoLindokuhle/Password-Generator.git
     cd Password-Generator
     ```
 
